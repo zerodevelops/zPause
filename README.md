@@ -23,3 +23,4 @@ Standalone Pause Menu that is minimalistic not many animations besides a hover. 
  
  
  Thank you to the whole ESX Discord Community for the help towards this small yes simple pause menu. 
+![diagram](https://github.com/user-attachments/assets/b892d224-21d7-477a-b4b0-5df0e39e5676)
